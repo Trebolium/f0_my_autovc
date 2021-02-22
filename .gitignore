@@ -1,0 +1,9 @@
+/pitch
+/model_data
+/spmel
+.*.swp
+.*.swo
+.*.swn
+3000000-BL.ckpt
+autovc.ckpt
+checkpoint_step001000000_ema.pth
